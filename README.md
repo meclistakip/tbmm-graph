@@ -6,7 +6,7 @@ Bu çalışma [tbmm.gov.tr](https://www.tbmm.gov.tr/) adresinde yayınlanan bilg
 
 Bu sorunu çözebilmek için tbmm.gov.tr adresinde yayınlanan bilgileri HTML sayfalardan ayıklayan, yapısal veriye çeviren, ve herkesin erişimine açık hale getiren araçlar seti geliştirmekteyiz.
 
-Şu anda bulunduğunuz bu github repo alanında organize olmaktayız, forum şeklinde işleyen [issue]()'larda tartışmalar yapmakta ve [wiki]()'de varılan sonuçları düzenlemekteyiz. Geliştirilmekte olan araçlar ise bu organizasyon altında kendi repolarında bulunmaktadırlar.
+Şu anda bulunduğunuz bu github repo alanında organize olmaktayız, forum şeklinde işleyen [issue](https://github.com/meclistakip/tbmm-graph/issues)'larda tartışmalar yapmakta ve [wiki](https://github.com/meclistakip/tbmm-graph/wiki)'de varılan sonuçları düzenlemekteyiz. Geliştirilmekte olan araçlar ise bu organizasyon altında kendi repolarında bulunmaktadırlar.
 
 ## Çalışmaya kimler destek olabilir ve faydalanabilir
 
